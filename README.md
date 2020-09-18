@@ -2,7 +2,7 @@
 
 <p><em>I am a <strong>Full Stack Web Developer</strong>. Learning and practicing HTML, CSS, Javascript, ReactJS, Redux, Backend API, NodeJS, Python, Computer Science. Improving all the coding skills necessary to build web applications. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team. </em></p>
 
-- 🔭 I’m currently working on Story Squad
+- 🔭 I’m currently working on [Story Squad](https://github.com/Lambda-School-Labs/Labs26-StorySquad-FE-TeamB)
 - 🌱 I’m currently learning Storybook and Ant Design
 - 📫  How to reach me: sandra.g.coburn@gmail.com
 <!-- - 😄 Pronouns: ... -->
