@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently working on Story Squad
 - 🌱 I’m currently learning Storybook and Ant Design
-- 📫 How to reach me: 
+- 📫  How to reach me: sandra.g.coburn@gmail.com
 <!-- - 😄 Pronouns: ... -->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sandra-borunda-coburn/)
 - ⚡ Fun fact: I love to run.
 
 <!-- ### Connect with me:
