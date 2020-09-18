@@ -2,12 +2,14 @@
 
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Storybook and Ant Design.
+- 🔭 I’m currently working on Story Squad
+- 🌱 I’m currently learning Storybook and Ant Design
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to run.
-<br />
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/sandra-borunda-coburn/]
 
 ### Language and Tools:
 
