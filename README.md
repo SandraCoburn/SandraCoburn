@@ -1,6 +1,6 @@
 ### Hi there, I'm Sandra Coburn 👋
 
-## Full Stack Web Developer
+<p><em>Full Stack Web Developer</em></p>
 
 - 🔭 I’m currently working on Story Squad
 - 🌱 I’m currently learning Storybook and Ant Design
