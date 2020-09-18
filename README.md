@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Story Squad
 - 🌱 I’m currently learning Storybook and Ant Design
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: 
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love to run.
 
 ### Connect with me:
