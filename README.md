@@ -4,7 +4,7 @@
 
 
 -  🔭 I’m currently working on a personal project: [Bakery](https://github.com/SandraCoburn/bakery-shopping)
-- 🌱 I’m currently learning Graphql and Apollo
+- 🌱 I’m currently learning Graphql, Next.js and Apollo
 - 📫  How to reach me: sandra.g.coburn@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sandra-borunda-coburn/)
