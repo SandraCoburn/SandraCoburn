@@ -1,7 +1,6 @@
 ### Hi there, I'm Sandra Coburn 👋
 
-<p><em>I am a <strong>Full Stack Web Developer</strong>. Learning and practicing HTML, CSS, Javascript, ReactJS, Redux, Backend API, NodeJS, Python, Computer Science. Improving all the coding skills necessary to build web applications. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team. </em></p>
-
+<p><em>I am a <strong>Full Stack Web Developer</strong>. Improving all the coding skills necessary to build web applications. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team. </em></p>
 
 -  🔭 I’m currently working on a personal project: [Bakery](https://github.com/SandraCoburn/bakery-shopping)
 - 🌱 I’m currently learning Graphql, Next.js and Apollo
@@ -16,7 +15,7 @@
 ![Profile views](https://gpvc.arturio.dev/SandraCoburn)  <img src="https://img.shields.io/github/followers/SandraCoburn?label=Follow" style=" float:left, margin-right:10px" />
 
 ### Language and Tools: 
-##### ReactJS, Javascript, HTML, CSS, NodeJS, Python, TypeScript, SQL
+ReactJS, Javascript, HTML, CSS, NodeJS, Python, TypeScript, SQL
 ###### Redux, Styled Components, Material-UI, AntD, Module CSS, React Reveal, React Router, Axios, Sqlite3, MongoDB, Mongoose, Express, Mocha, Jest
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
