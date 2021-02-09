@@ -3,7 +3,7 @@
 <p><em>I am a <strong>Full Stack Web Developer</strong>. Improving all the coding skills necessary to build web applications. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team. </em></p>
 
 -  🔭 I’m currently working on a personal project: [Bakery](https://github.com/SandraCoburn/bakery-shopping)
-- 🌱 I’m currently learning <strong>GraphQL, GraphQL Yoga, Next.js, Prisma and Apollo Client</strong>
+- 🌱 I’m currently learning <strong>GraphQL, Keystone, Next.js, and Apollo Client</strong>
 - 📫  How to reach me: sandra.g.coburn@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sandra-borunda-coburn/)
