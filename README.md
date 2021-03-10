@@ -7,7 +7,7 @@
 - 📫  How to reach me: sandra.g.coburn@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sandra-borunda-coburn/)
-- ⚡ Fun fact: I love to run and I love food, the more I run the more I can enjoy food!
+- ⚡ Fun fact: I love to run and I love food, the more I run the more food I can enjoy!
 
 <!-- ### Connect with me:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> -->
