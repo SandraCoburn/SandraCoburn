@@ -14,7 +14,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/SandraCoburn)  <img src="https://img.shields.io/github/followers/SandraCoburn?label=Follow" style=" float:left, margin-right:10px" />
 
-### Languages and Tools: ReactJS, Javascript, HTML, CSS, NodeJS, Python, TypeScript, SQL
+### Languages and Tools: ReactJS, Javascript, HTML, CSS, NodeJS, Python, TypeScript, SQL, GraphQL
 ###### Redux, Less, Sass, Bootstrap, Styled Components, Material-UI, AntD, Module CSS, React Reveal, jQuery, React Router, Axios, Sqlite3, Postgresql, MongoDB, Mongoose, Express, Docker, Kubernetes, Mocha, Jest, Firebase, Netlify, Vercel, Heroku
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
