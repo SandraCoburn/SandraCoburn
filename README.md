@@ -30,7 +30,7 @@
 <br>
 <br />
 <!-- comment -->
-<!-- [linkedin]: [https://www.linkedin.com/in/sandra-coburn/ ](https://www.linkedin.com/in/sandra-coburn/)-->
+<!-- [linkedin]: [https://www.linkedin.com/in/sandra-coburn/](https://www.linkedin.com/in/sandra-coburn/)-->
 <!-- end -->
 
 ---
