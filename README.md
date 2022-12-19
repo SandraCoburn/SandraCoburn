@@ -2,8 +2,8 @@
 
 <p><em>I am a <strong>Full Stack Web Developer</strong>. Improving all the coding skills necessary to build web applications. Passionate to use my knowledge in larger projects where my input and contribution will add value to any team. </em></p>
 
--  🔭 I’m <strong>currently</strong> working fulltime as Solutions Engineer for Cedar Cares Inc.
--  Last side <strong>project</strong>project I worked on: [The Midnight Bakery](https://github.com/SandraCoburn/bakery-frontend)
+-  I’m <strong>currently</strong> working fulltime as Solutions Engineer for Cedar Cares Inc.
+-  🔭 Last side <strong>project</strong> I worked on: [The Midnight Bakery](https://github.com/SandraCoburn/bakery-frontend)
 - 🌱 I’m currently learning <strong>Django</strong> and <strong>Docker</strong>
 - 📫  How to reach me: sandra.g.coburn@gmail.com
 <!-- - 😄 Pronouns: ... -->
